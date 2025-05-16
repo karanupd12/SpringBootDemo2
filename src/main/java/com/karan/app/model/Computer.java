@@ -1,4 +1,4 @@
-package com.karan.app;
+package com.karan.app.model;
 
 
 public interface Computer {

@@ -1,5 +1,4 @@
-package com.karan.app;
-
+package com.karan.app.model;
 import org.springframework.stereotype.Component;
 
 @Component
